@@ -22,3 +22,7 @@ This is a simple text-to-speech converter built using HTML, CSS, and JavaScript.
 2. style.css: The CSS file containing the styles for the converter's layout and appearance.
 3. script.js: The JavaScript file with the logic for converting text to speech and handling user interactions.
 4. README.md: The file you are currently reading, containing information about the text-to-speech converter and how to use it.
+
+## Screenshots
+
+![image](https://github.com/thepratikshrote/text_to_speech_converter/assets/139691671/900ffc9d-f4e9-40a0-86fe-623c0c4c663d)
